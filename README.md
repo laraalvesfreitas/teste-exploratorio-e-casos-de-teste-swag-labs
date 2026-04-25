@@ -1,7 +1,10 @@
 #  Teste Exploratório - Swag Labs
 
+
 ## 📌 Sobre o projeto
 Este repositório contém a execução de testes exploratórios no sistema Swag Labs, um e-commerce utilizado para prática de testes de software.
+
+Site: https://www.saucedemo.com/
 
 Durante a exploração da aplicação, foram identificados comportamentos inesperados e possíveis falhas.  
 Com base nisso, foram elaborados casos de teste funcionais para documentar, reproduzir e validar os erros encontrados.
