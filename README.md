@@ -50,10 +50,13 @@ Com base nisso, foram elaborados casos de teste funcionais para documentar, repr
 | Tipo              | Descrição                                      | Link |
 |------------------|-----------------------------------------------|------|
 | 🧪 Casos de Teste | Login, Carrinho, Checkout                     | [Ver casos](casos-de-teste.md) |
-| 🐞 Bugs           | Bugs encontrados durante exploração           | [Ver bugs](./bugs/bugs.md) |
+| 🐞 Bugs           | Bugs encontrados durante exploração           | [Ver bugs](bugs) |
 
 
 
 
 ##  Autora
 Projeto desenvolvido por Lara Alves com foco em aprendizado e prática de QA (Quality Assurance).
+
+
+*Obs.: IA utilizada para formatação dos bug reports.*
