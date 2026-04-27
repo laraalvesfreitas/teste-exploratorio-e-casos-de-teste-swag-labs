@@ -34,9 +34,8 @@ Com base nisso, foram elaborados casos de teste funcionais para documentar, repr
 
 
 ##  Estrutura do repositório
-- `/casos-de-teste` → Casos de teste criados com base nos cenários encontrados  
-- `/bugs` → Relatos de bugs identificados  
-- `/evidencias` → Prints ou registros dos erros encontrados  
+- `casos-de-teste.md` → Casos de teste criados com base nos cenários identificados durante o teste exploratório  
+- `/bugs` → Relatos de bugs encontrados durante a execução dos testes 
 
 
 
