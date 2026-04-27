@@ -1,4 +1,4 @@
-#  Teste Exploratório - Swag Labs
+#  Teste - Swag Labs
 
 
 ## 📌 Sobre o projeto
